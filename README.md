@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/keyswirl](https://github.com/prescientmoon/keyswirl) 🚧
 # Welcome to KeySwirl
 
 This is my repository for lots of keyboard related things!
